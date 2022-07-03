@@ -6,8 +6,6 @@ This kit comes with more than 15 screens which contain the most common screens f
 
 ### V.0.1 Shop UI
 
-![Preview](/preview/0.png)
-![Preview](/preview/1.jpg)
-![Preview](/preview/2.jpg)
+![Preview](/preview/Frame 541.png)
 
 
